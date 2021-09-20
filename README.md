@@ -2,7 +2,7 @@
 Well , let's accept the fact that the default theme for Python IDLE is boring . So, to spice up that , i have brought to you the best collection of themes which you can integrate with the Python IDLE
 
 ## Installation
-- After downloading and extracting all the contents of the zip , open the `config-highlight.def` file in notepad and copy all its contents 
+- After downloading and extracting all the contents of the zip , open the `config-highlight.def` file in notepad and copy all its content 
 - Now go to `(Drive in Which Python Folder is)\Python\Lib\idlelib` .
 - Now you will find a file called `config-highlight.def` there . Open it in a notepad and replace all its content with the code you copied earlier .
 - Now save the file (PLEASE CLOSE ANY OPEN DEFAULT IDLES)
