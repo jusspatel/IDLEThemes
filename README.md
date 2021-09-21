@@ -14,12 +14,12 @@ Well , let's accept the fact that the default theme for Python IDLE is boring . 
 - After you have chosen your desired theme , click on `Apply` and voila , the new theme should be working 
 
 ## Themes currently Available 
-- VS Code Theme
-- Atom One Dark Theme
-- Obsidian Theme
-- Sublime Text Theme
-- Pycharm's Dracula Theme
-- Default Light
-- Default Dark
+| Themese | Themes |
+| --------------- | --------------- |
+| Atom One dark | Row 1 Column 2 | 
+| Row 2 Column 1 | Row 2 Column 2 | 
+| Row 3 Column 1 | Row 3 Column 2 | 
+| Row 4                           |
+
 
 ## Made with Python 3.x 
