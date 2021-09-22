@@ -20,5 +20,10 @@ Well , let's accept the fact that the default theme for Python IDLE is boring . 
 | ![](https://github.com/jusspatel/IDLEThemes/blob/main/Screenshot%20(343).png) <br> Default Light | ![](https://github.com/jusspatel/IDLEThemes/blob/main/Screenshot%20(344).png) <br> Obsidian Theme| ![](https://github.com/jusspatel/IDLEThemes/blob/main/Screenshot%20(346).png) <br> Sublime Text Theme |
 | | ![](https://github.com/jusspatel/IDLEThemes/blob/main/Screenshot%20(347).png) <br> VSCode Theme| |
 
+## Change Default theme
+- To change Default theme , go to` C:/Users/[User Name]/.idlerc` (Example Path : `C:\Users\admin\.idlerc`)
+- Over there , you will find a file called `config-main.cfg` . Open it with notepad .
+- Upon Opening it , change `name2 = .....` with `name 2 = [Theme you want as Default]`  (Example : `name2 = VS Code Theme`)
+- Please note that the theme should have already been installed via the steps given in Installation
 
 ## Made with Python 3.x 
